@@ -33,10 +33,15 @@ En el raíz del directorio en cuestión es necesario es posible crear un archivo
 
 ### Ejemplo
 DB_USER=root
+
 DB_PASS=root
+
 DB_HOST=127.0.0.1
+
 DB_PORT=3306
+
 DB_NAME=videoclub
+
 HTTP_PORT=80
 
 Una vez configurado todo lo indicado e iniciada la instancia de MariaDB, iniciar mediante **node index.js**
